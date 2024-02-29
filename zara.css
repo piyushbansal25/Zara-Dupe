@@ -1,0 +1,129 @@
+img.nav-logo-img {
+    height: 50px;
+    width: 60px;
+  }
+  .container {
+    max-width: 100%;
+  }
+  
+  .jumbotron {
+    text-align: center;
+  }
+  h1.display-4 {
+    color: yellow;
+    font-size: 200px;
+  }
+  p.lead {
+    color: yellow;
+  }
+  img.zara {
+    width: 100px;
+    height: 100px;
+  }
+  
+  .sectionLight {
+    padding: 2rem;
+  }
+  
+  .sectionDark {
+    background-color: #eceeef;
+    padding: 2rem;
+  }
+  
+  img.img-sectionDark {
+    margin-left: 0%;
+    height: 100px;
+    width: 200px;
+    padding: 0%;
+  }
+  
+  .coolStuffWrapper {
+    margin-top: 25px;
+  }
+  
+  button.coolStuffBtn {
+    display: block;
+    margin: auto;
+  }
+  
+  h1.modal-title {
+    margin: auto;
+  }
+  
+  .modalFormWrapper {
+    padding: 2rem;
+  }
+  
+  .imgCenter {
+    display: block;
+    margin: auto;
+  }
+  
+  img.imgCenter {
+    height: 80%;
+  }
+  
+  .btnCenter {
+    display: block;
+    margin: auto;
+    margin-top: 15px;
+    margin-bottom: 20px;
+  }
+  
+  button.btnCenter:hover {
+    background-color: #eceeef;
+    color: black;
+  }
+  
+  .navbar {
+    text-decoration: none;
+  }
+  .header {
+    position: relative;
+    min-height: 100vh;
+  }
+  
+  .back-video {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    z-index: -1;
+    min-width: 100%;
+    min-height: 100%;
+  }
+  
+  iframe.clothingIframe {
+    width: 100%;
+    height: 100vh;
+    padding: 2rem;
+  }
+  
+  .size {
+    width: 100%;
+    height: 70%;
+    padding: 2rem;
+  }
+  
+  .footer {
+    margin-bottom: 0;
+  }
+  
+  .fa-fb-icon {
+    color: #3b5998;
+    padding: 2rem;
+  }
+  
+  .fa-instagram {
+    color: rgba(red, green, blue, alpha);
+    padding: 2rem;
+  }
+  
+  .fa-google {
+    color: #c32f10;
+    padding: 2rem;
+  }
+  
+  .socialWrapper {
+    margin: auto;
+  }
+  
